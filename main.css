@@ -1,0 +1,52 @@
+#social-buttons {
+	color : white;
+	background-color: rgb(32,35,41,0.9);
+	text-align: center;
+}
+
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
+
+.btn-facebook {
+	background-color: #4868ac;
+	border-color: #314776;
+}
+
+.btn-pinterest {
+background-color: #b62f26;
+border-color: #b62f26;
+}
+
+.jumbotron {
+	min-height: 600px;
+	font-family: "Courier New";
+	font-variant: small-caps;
+	word-spacing: -20px;
+	background: url(beach.jpg) no-repeat center center fixed;
+  background-image: url(beach.jpg);
+  background-size: cover; 
+  background-repeat: no-repeat;
+  text-align: center;
+  padding-top: 250px;
+	
+}
+
+#mission {
+	background-color: rgba(32,35,41,0.5);
+	color: black;
+	text-align: center;
+	padding-bottom: 40px; 
+}
+
+body {
+	padding-top: 30px;
+}
+
+blockquote {
+	border: 0;
+}
+
+label { 
+	cursor: default;
