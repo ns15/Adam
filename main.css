@@ -4,20 +4,11 @@
 	text-align: center;
 }
 
-.btn-twitter {
-	background-color: #00acee;
-	border-color: #009ad5;
-}
-
 .btn-facebook {
 	background-color: #4868ac;
 	border-color: #314776;
 }
 
-.btn-pinterest {
-background-color: #b62f26;
-border-color: #b62f26;
-}
 
 .jumbotron {
 	min-height: 600px;
@@ -34,20 +25,19 @@ border-color: #b62f26;
 	
 }
 
+
 #info {
 	background-color: rgba(32,35,41,0.5);
 	color: black;
 	text-align: center;
 	padding-bottom: 40px; 
+	padding-top: 40px;
 }
 
 body {
 	padding-top: 30px;
 }
 
-blockquote {
-	border: 0;
-}
 
 label { 
 	cursor: default;
