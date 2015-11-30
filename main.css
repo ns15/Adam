@@ -3,7 +3,7 @@
 	font-family: "Courier New";
 	font-variant: small-caps;
 	word-spacing: -20px;
-	background: url(beach.jpg) no-repeat center center fixed;
+	background: url(lake.jpg) no-repeat center center fixed;
   background-size: cover; 
   background-repeat: repeat;
   text-align: center;
@@ -15,6 +15,7 @@
 
 body {
 	padding-top: 30px;
+	padding-bottom: -50px;
 }
 
 
@@ -22,8 +23,17 @@ label {
 	cursor: default;
 }
 
+#info {
+	background-color: #ffcc99;
+	color: black;
+	text-align: center;
+	padding-bottom: 40px; 
+	padding-top: 10px;
+}
+
 .adam {
 	text-align: left;
+	padding-left: 10px;
 }
 
 .adamimg {
@@ -43,13 +53,6 @@ label {
     padding-left: 50px;
 }
 
-#info {
-	background-color: rgba(32,35,41,0.5);
-	color: black;
-	text-align: center;
-	padding-bottom: 40px; 
-	padding-top: 10px;
-}
 
 .btn-facebook {
 	background-color: #4868ac;
