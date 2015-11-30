@@ -27,12 +27,20 @@ label {
 }
 
 .adamimg {
-	width: 54px; /* you can use % */
-    height: 10px;
+	width: -50px; /* you can use % */
+    height: -10px;
+    padding-right: 1200px;
+    padding-left: -100px;
 }
 
 .gael {
 	text-align: right;
+}
+
+.gaelimg {
+	width: -20px; /* you can use % */
+    height: -10px;
+    padding-left: 50px;
 }
 
 #info {
